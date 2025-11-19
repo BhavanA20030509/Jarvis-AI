@@ -1,0 +1,6 @@
+brain.dump
+vosk_speech_engine/model/
+__pycache__/
+*.pyc
+*.log
+    
