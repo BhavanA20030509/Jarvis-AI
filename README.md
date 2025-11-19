@@ -1,7 +1,7 @@
 # JARVIS-AI-ASSISTANT
 
 <p align='center'>
-  <img src = "https://giffiles.alphacoders.com/212/212508.gif" alt="" height='300' width='300'>
+  <img src = "https://giffiles.alphacoders.com/212/212508.gif" alt="" height='300' width='600'>
   </p>
 
 A true Artificial Intelligent Assistant with ALICE as backend and offline speech recognition with vosk engine and pyttsx3 as text to speech engine
